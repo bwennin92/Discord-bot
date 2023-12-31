@@ -1,0 +1,3 @@
+discord.py
+google-cloud-secret-manager
+py-cord==2.0.0b5
